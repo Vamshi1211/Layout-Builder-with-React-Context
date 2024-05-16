@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.layout-container {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 90%;
+  max-width: 1100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
